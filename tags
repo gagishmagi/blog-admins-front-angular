@@ -1,0 +1,278 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BIN	node_modules/custom-event/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/dom-serialize/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/engine.io-client/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/engine.io/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/socket.io-client/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/socket.io-parser/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/socket.io/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/stylus/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BROWSERIFY	node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/engine.io-client/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/engine.io/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/socket.io-client/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/socket.io-parser/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/socket.io/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/stylus/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+CHANGELOG_ERROR	node_modules/es-to-primitive/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m
+CHANGELOG_ERROR	node_modules/is-symbol/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m
+CHANGELOG_ERROR	node_modules/object.getownpropertydescriptors/Makefile	/^CHANGELOG_ERROR = $(error No CHANGELOG specified)$/;"	m
+COFFEE	node_modules/sockjs/Makefile	/^COFFEE:=.\/node_modules\/.bin\/coffee$/;"	m
+DEBUG	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^DEBUG()$/;"	f
+DEBUG	node_modules/open/xdg-open	/^DEBUG()$/;"	f
+DEBUG	node_modules/opn/xdg-open	/^DEBUG()$/;"	f
+JSL	node_modules/extsprintf/Makefile	/^JSL		 = jsl$/;"	m
+JSL_CONF_NODE	node_modules/extsprintf/Makefile	/^JSL_CONF_NODE	 = jsl.node.conf$/;"	m
+JSL_FILES_NODE	node_modules/extsprintf/Makefile	/^JSL_FILES_NODE   = $(JS_FILES)$/;"	m
+JSSTYLE	node_modules/extsprintf/Makefile	/^JSSTYLE		 = jsstyle$/;"	m
+JSSTYLE_FILES	node_modules/chrome-trace-event/Makefile	/^JSSTYLE_FILES := $(shell find lib test -name "*.js")$/;"	m
+JSSTYLE_FILES	node_modules/extsprintf/Makefile	/^JSSTYLE_FILES	 = $(JS_FILES)$/;"	m
+JS_FILES	node_modules/extsprintf/Makefile	/^JS_FILES	:= $(shell find examples lib -name '*.js')$/;"	m
+NODE	node_modules/custom-event/Makefile	/^NODE ?= node$/;"	m
+NODE	node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/dom-serialize/Makefile	/^NODE ?= node$/;"	m
+NODE	node_modules/engine.io-client/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/engine.io/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/socket.io-client/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/socket.io-parser/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/socket.io/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/stylus/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE_OPTS	node_modules/json-stringify-safe/Makefile	/^NODE_OPTS =$/;"	m
+PATH	node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/engine.io-client/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/engine.io/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/es-to-primitive/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m
+PATH	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/is-symbol/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m
+PATH	node_modules/object.getownpropertydescriptors/Makefile	/^export PATH := $(shell printf '%s' "$$PWD\/node_modules\/.bin:$$PATH")$/;"	m
+PATH	node_modules/socket.io-client/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/socket.io-parser/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/socket.io/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/stylus/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PKG	node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/engine.io-client/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/engine.io/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/socket.io-client/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/socket.io-parser/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/socket.io/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/stylus/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+Page	node_modules/selenium-webdriver/lib/test/data/Page.aspx.cs	/^public partial class Page : System.Web.UI.Page$/;"	c
+Page_Load	node_modules/selenium-webdriver/lib/test/data/Page.aspx.cs	/^    protected void Page_Load(object sender, EventArgs e)$/;"	m	class:Page
+Page_Load	node_modules/selenium-webdriver/lib/test/data/Redirect.aspx.cs	/^    protected new void Page_Load(object sender, EventArgs e)$/;"	m	class:Redirect
+REPORTER	node_modules/arraybuffer.slice/Makefile	/^REPORTER = dot$/;"	m
+REPORTER	node_modules/blob/Makefile	/^REPORTER = dot$/;"	m
+Redirect	node_modules/selenium-webdriver/lib/test/data/Redirect.aspx.cs	/^public partial class Redirect : Page$/;"	c
+SHELL	node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/delayed-stream/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/engine.io-client/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/engine.io/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/p-retry/node_modules/retry/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/retry/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/socket.io-client/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/socket.io-parser/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/socket.io/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/stylus/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+TAPE	node_modules/chrome-trace-event/Makefile	/^TAPE = .\/node_modules\/.bin\/tape$/;"	m
+TEST_OPTS	node_modules/json-stringify-safe/Makefile	/^TEST_OPTS =$/;"	m
+THIS_DIR	node_modules/custom-event/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/dom-serialize/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/engine.io-client/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/engine.io/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/socket.io-client/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/socket.io-parser/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/socket.io/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/stylus/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_MAKEFILE_PATH	node_modules/custom-event/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/dom-serialize/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/engine.io-client/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/engine.io/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/socket.io-client/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/socket.io-parser/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/socket.io/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/stylus/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+UTILS	node_modules/es-to-primitive/Makefile	/^UTILS := semver$/;"	m
+UTILS	node_modules/is-symbol/Makefile	/^UTILS := semver$/;"	m
+UTILS	node_modules/object.getownpropertydescriptors/Makefile	/^UTILS := semver$/;"	m
+UTIL_CHECK	node_modules/es-to-primitive/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m
+UTIL_CHECK	node_modules/is-symbol/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m
+UTIL_CHECK	node_modules/object.getownpropertydescriptors/Makefile	/^UTIL_CHECK := $(or $(shell PATH="$(PATH)" which $(UTILS) >\/dev\/null && echo 'ok'),$(error Did you forget to run `npm install` after cloning the repo? At least one of the required supporting utilities not found: $(UTILS)))$/;"	m
+VERSIONED_FILES	node_modules/es-to-primitive/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m
+VERSIONED_FILES	node_modules/is-symbol/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m
+VERSIONED_FILES	node_modules/object.getownpropertydescriptors/Makefile	/^VERSIONED_FILES := *.js *.json README*$/;"	m
+WD_URL	node_modules/blocking-proxy/examples/e2e_test.py	/^WD_URL = 'http:\/\/localhost:8001'$/;"	v
+YARN	node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/engine.io-client/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/engine.io/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/http-proxy-agent/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/socket.io-client/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/socket.io-parser/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/socket.io/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/stylus/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/webpack-dev-server/node_modules/express/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+ZUUL	node_modules/custom-event/Makefile	/^ZUUL ?= $(NODE) $(BIN)\/zuul$/;"	m
+ZUUL	node_modules/dom-serialize/Makefile	/^ZUUL ?= $(NODE) $(BIN)\/zuul$/;"	m
+__karma_completion	node_modules/karma/scripts/karma-completion.sh	/^  __karma_completion () {$/;"	f
+__karma_completion	node_modules/karma/scripts/karma-completion.sh	/^  __karma_completion() {$/;"	f
+_npm_completion	node_modules/object.assign/test.sh	/^  _npm_completion () {$/;"	f
+_npm_completion	node_modules/object.assign/test.sh	/^  _npm_completion() {$/;"	f
+add_button	node_modules/blocking-proxy/examples/e2e_test.py	/^add_button = todo_app.find_element_by_css_selector('[value="add"]')$/;"	v
+binary_to_desktop_file	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^binary_to_desktop_file()$/;"	f
+binary_to_desktop_file	node_modules/open/xdg-open	/^binary_to_desktop_file()$/;"	f
+binary_to_desktop_file	node_modules/opn/xdg-open	/^binary_to_desktop_file()$/;"	f
+capabilities	node_modules/blocking-proxy/examples/e2e_test.py	/^capabilities = webdriver.DesiredCapabilities.CHROME.copy()$/;"	v
+check_common_commands	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^check_common_commands()$/;"	f
+check_common_commands	node_modules/open/xdg-open	/^check_common_commands()$/;"	f
+check_common_commands	node_modules/opn/xdg-open	/^check_common_commands()$/;"	f
+check_input_file	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^check_input_file()$/;"	f
+check_input_file	node_modules/open/xdg-open	/^check_input_file()$/;"	f
+check_input_file	node_modules/opn/xdg-open	/^check_input_file()$/;"	f
+check_output_file	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^check_output_file()$/;"	f
+check_output_file	node_modules/open/xdg-open	/^check_output_file()$/;"	f
+check_output_file	node_modules/opn/xdg-open	/^check_output_file()$/;"	f
+check_vendor_prefix	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^check_vendor_prefix()$/;"	f
+check_vendor_prefix	node_modules/open/xdg-open	/^check_vendor_prefix()$/;"	f
+check_vendor_prefix	node_modules/opn/xdg-open	/^check_vendor_prefix()$/;"	f
+desktop_file_to_binary	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^desktop_file_to_binary()$/;"	f
+desktop_file_to_binary	node_modules/open/xdg-open	/^desktop_file_to_binary()$/;"	f
+desktop_file_to_binary	node_modules/opn/xdg-open	/^desktop_file_to_binary()$/;"	f
+detectDE	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^detectDE()$/;"	f
+detectDE	node_modules/open/xdg-open	/^detectDE()$/;"	f
+detectDE	node_modules/opn/xdg-open	/^detectDE()$/;"	f
+driver	node_modules/blocking-proxy/examples/e2e_test.py	/^driver = webdriver.Remote(desired_capabilities=capabilities, command_executor=WD_URL)$/;"	v
+exit_failure_file_missing	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^exit_failure_file_missing()$/;"	f
+exit_failure_file_missing	node_modules/open/xdg-open	/^exit_failure_file_missing()$/;"	f
+exit_failure_file_missing	node_modules/opn/xdg-open	/^exit_failure_file_missing()$/;"	f
+exit_failure_file_permission_read	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^exit_failure_file_permission_read()$/;"	f
+exit_failure_file_permission_read	node_modules/open/xdg-open	/^exit_failure_file_permission_read()$/;"	f
+exit_failure_file_permission_read	node_modules/opn/xdg-open	/^exit_failure_file_permission_read()$/;"	f
+exit_failure_file_permission_write	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^exit_failure_file_permission_write()$/;"	f
+exit_failure_file_permission_write	node_modules/open/xdg-open	/^exit_failure_file_permission_write()$/;"	f
+exit_failure_file_permission_write	node_modules/opn/xdg-open	/^exit_failure_file_permission_write()$/;"	f
+exit_failure_operation_failed	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^exit_failure_operation_failed()$/;"	f
+exit_failure_operation_failed	node_modules/open/xdg-open	/^exit_failure_operation_failed()$/;"	f
+exit_failure_operation_failed	node_modules/opn/xdg-open	/^exit_failure_operation_failed()$/;"	f
+exit_failure_operation_impossible	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^exit_failure_operation_impossible()$/;"	f
+exit_failure_operation_impossible	node_modules/open/xdg-open	/^exit_failure_operation_impossible()$/;"	f
+exit_failure_operation_impossible	node_modules/opn/xdg-open	/^exit_failure_operation_impossible()$/;"	f
+exit_failure_syntax	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^exit_failure_syntax()$/;"	f
+exit_failure_syntax	node_modules/open/xdg-open	/^exit_failure_syntax()$/;"	f
+exit_failure_syntax	node_modules/opn/xdg-open	/^exit_failure_syntax()$/;"	f
+exit_success	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^exit_success()$/;"	f
+exit_success	node_modules/open/xdg-open	/^exit_success()$/;"	f
+exit_success	node_modules/opn/xdg-open	/^exit_success()$/;"	f
+file_url_to_path	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^file_url_to_path()$/;"	f
+file_url_to_path	node_modules/open/xdg-open	/^file_url_to_path()$/;"	f
+file_url_to_path	node_modules/opn/xdg-open	/^file_url_to_path()$/;"	f
+first_word	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^first_word()$/;"	f
+first_word	node_modules/open/xdg-open	/^first_word()$/;"	f
+first_word	node_modules/opn/xdg-open	/^first_word()$/;"	f
+get_key	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^get_key()$/;"	f
+get_key	node_modules/open/xdg-open	/^get_key()$/;"	f
+get_key	node_modules/opn/xdg-open	/^get_key()$/;"	f
+has_display	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^has_display()$/;"	f
+has_display	node_modules/open/xdg-open	/^has_display()$/;"	f
+has_display	node_modules/opn/xdg-open	/^has_display()$/;"	f
+has_single_argument	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^has_single_argument()$/;"	f
+has_single_argument	node_modules/open/xdg-open	/^has_single_argument()$/;"	f
+has_single_argument	node_modules/opn/xdg-open	/^has_single_argument()$/;"	f
+hello_box	node_modules/blocking-proxy/examples/e2e_test.py	/^hello_box = sample_app.find_element_by_css_selector('h1')$/;"	v
+is_file_url_or_path	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^is_file_url_or_path()$/;"	f
+is_file_url_or_path	node_modules/open/xdg-open	/^is_file_url_or_path()$/;"	f
+is_file_url_or_path	node_modules/opn/xdg-open	/^is_file_url_or_path()$/;"	f
+kfmclient_fix_exit_code	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^kfmclient_fix_exit_code()$/;"	f
+kfmclient_fix_exit_code	node_modules/open/xdg-open	/^kfmclient_fix_exit_code()$/;"	f
+kfmclient_fix_exit_code	node_modules/opn/xdg-open	/^kfmclient_fix_exit_code()$/;"	f
+last_word	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^last_word()$/;"	f
+last_word	node_modules/open/xdg-open	/^last_word()$/;"	f
+last_word	node_modules/opn/xdg-open	/^last_word()$/;"	f
+manualpage	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^manualpage()$/;"	f
+manualpage	node_modules/open/xdg-open	/^manualpage()$/;"	f
+manualpage	node_modules/opn/xdg-open	/^manualpage()$/;"	f
+n	node_modules/es-to-primitive/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m
+n	node_modules/is-symbol/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m
+n	node_modules/object.getownpropertydescriptors/Makefile	/^	 printf "=== Bumping version **$$old_ver** to **$$new_ver** before committing and tagging:\\n=== TYPE 'proceed' TO PROCEED, anything else to abort: " && read response && [ "$$response" = 'proceed' ] || { echo 'Aborted.' >&2; exit 2; };  \\$/;"	m
+name_box	node_modules/blocking-proxy/examples/e2e_test.py	/^name_box = sample_app.find_element_by_css_selector('[ng-model="yourName"]')$/;"	v
+open_cygwin	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_cygwin()$/;"	f
+open_cygwin	node_modules/open/xdg-open	/^open_cygwin()$/;"	f
+open_cygwin	node_modules/opn/xdg-open	/^open_cygwin()$/;"	f
+open_darwin	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_darwin()$/;"	f
+open_darwin	node_modules/open/xdg-open	/^open_darwin()$/;"	f
+open_darwin	node_modules/opn/xdg-open	/^open_darwin()$/;"	f
+open_dde	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_dde()$/;"	f
+open_dde	node_modules/open/xdg-open	/^open_dde()$/;"	f
+open_dde	node_modules/opn/xdg-open	/^open_dde()$/;"	f
+open_enlightenment	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_enlightenment()$/;"	f
+open_enlightenment	node_modules/open/xdg-open	/^open_enlightenment()$/;"	f
+open_enlightenment	node_modules/opn/xdg-open	/^open_enlightenment()$/;"	f
+open_envvar	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_envvar()$/;"	f
+open_envvar	node_modules/open/xdg-open	/^open_envvar()$/;"	f
+open_envvar	node_modules/opn/xdg-open	/^open_envvar()$/;"	f
+open_flatpak	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_flatpak()$/;"	f
+open_flatpak	node_modules/open/xdg-open	/^open_flatpak()$/;"	f
+open_flatpak	node_modules/opn/xdg-open	/^open_flatpak()$/;"	f
+open_generic	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_generic()$/;"	f
+open_generic	node_modules/open/xdg-open	/^open_generic()$/;"	f
+open_generic	node_modules/opn/xdg-open	/^open_generic()$/;"	f
+open_generic_xdg_file_mime	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_generic_xdg_file_mime()$/;"	f
+open_generic_xdg_file_mime	node_modules/open/xdg-open	/^open_generic_xdg_file_mime()$/;"	f
+open_generic_xdg_file_mime	node_modules/opn/xdg-open	/^open_generic_xdg_file_mime()$/;"	f
+open_generic_xdg_mime	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_generic_xdg_mime()$/;"	f
+open_generic_xdg_mime	node_modules/open/xdg-open	/^open_generic_xdg_mime()$/;"	f
+open_generic_xdg_mime	node_modules/opn/xdg-open	/^open_generic_xdg_mime()$/;"	f
+open_generic_xdg_x_scheme_handler	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_generic_xdg_x_scheme_handler()$/;"	f
+open_generic_xdg_x_scheme_handler	node_modules/open/xdg-open	/^open_generic_xdg_x_scheme_handler()$/;"	f
+open_generic_xdg_x_scheme_handler	node_modules/opn/xdg-open	/^open_generic_xdg_x_scheme_handler()$/;"	f
+open_gnome	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_gnome()$/;"	f
+open_gnome	node_modules/open/xdg-open	/^open_gnome()$/;"	f
+open_gnome	node_modules/opn/xdg-open	/^open_gnome()$/;"	f
+open_gnome3	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_gnome3()$/;"	f
+open_gnome3	node_modules/open/xdg-open	/^open_gnome3()$/;"	f
+open_gnome3	node_modules/opn/xdg-open	/^open_gnome3()$/;"	f
+open_kde	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_kde()$/;"	f
+open_kde	node_modules/open/xdg-open	/^open_kde()$/;"	f
+open_kde	node_modules/opn/xdg-open	/^open_kde()$/;"	f
+open_lxde	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_lxde()$/;"	f
+open_lxde	node_modules/open/xdg-open	/^open_lxde()$/;"	f
+open_lxde	node_modules/opn/xdg-open	/^open_lxde()$/;"	f
+open_lxqt	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_lxqt()$/;"	f
+open_lxqt	node_modules/open/xdg-open	/^open_lxqt()$/;"	f
+open_lxqt	node_modules/opn/xdg-open	/^open_lxqt()$/;"	f
+open_mate	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_mate()$/;"	f
+open_mate	node_modules/open/xdg-open	/^open_mate()$/;"	f
+open_mate	node_modules/opn/xdg-open	/^open_mate()$/;"	f
+open_xfce	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^open_xfce()$/;"	f
+open_xfce	node_modules/open/xdg-open	/^open_xfce()$/;"	f
+open_xfce	node_modules/opn/xdg-open	/^open_xfce()$/;"	f
+sample_app	node_modules/blocking-proxy/examples/e2e_test.py	/^sample_app = driver.find_element_by_css_selector("[app-run='hello.html']")$/;"	v
+search_desktop_file	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^search_desktop_file()$/;"	f
+search_desktop_file	node_modules/open/xdg-open	/^search_desktop_file()$/;"	f
+search_desktop_file	node_modules/opn/xdg-open	/^search_desktop_file()$/;"	f
+todo_app	node_modules/blocking-proxy/examples/e2e_test.py	/^todo_app = driver.find_element_by_css_selector("[app-run='todo.html']")$/;"	v
+todo_input	node_modules/blocking-proxy/examples/e2e_test.py	/^todo_input = todo_app.find_element_by_css_selector('[ng-model="todoList.todoText"]')$/;"	v
+todo_list	node_modules/blocking-proxy/examples/e2e_test.py	/^todo_list = todo_app.find_element_by_css_selector('ul')$/;"	v
+usage	node_modules/@angular-devkit/build-angular/node_modules/open/xdg-open	/^usage()$/;"	f
+usage	node_modules/open/xdg-open	/^usage()$/;"	f
+usage	node_modules/opn/xdg-open	/^usage()$/;"	f
